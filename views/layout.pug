@@ -1,0 +1,19 @@
+//- 
+ * layout.pug
+ *
+ * Creates the layout for all the pages in the website
+ * Author: Abner Castro
+ * Date: April 07th, 2017
+ */
+
+doctype
+html(lang="en-US")
+    head
+        meta(charset="uft-8")
+        title= title
+
+        //- Custom css file for the website
+        link(rel="stylesheet", type="text/css", href="/css/style.css")
+		
+    body
+        block content

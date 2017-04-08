@@ -2,7 +2,7 @@
 
 #### Purpose
 
-Create a full MEAN stack app to learn the basics concepts.
+Create a full MEAN stack app to learn the basic concepts.
 
 #### Tasks
 

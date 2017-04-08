@@ -1,0 +1,32 @@
+{
+  "name": "mean-app-xperience",
+  "version": "1.0.0",
+  "description": "Simple MEAN Stack app to learn the basic concepts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abnerfcastro/mean-app-xperience.git"
+  },
+  "keywords": [
+    "MEAN",
+    "mongo",
+    "express",
+    "angular",
+    "node",
+    "bootstrap",
+    "heroku"
+  ],
+  "author": "Abner Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abnerfcastro/mean-app-xperience/issues"
+  },
+  "homepage": "https://github.com/abnerfcastro/mean-app-xperience#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta11"
+  }
+}

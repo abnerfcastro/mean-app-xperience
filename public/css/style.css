@@ -1,0 +1,20 @@
+
+/*!
+ * style.css
+ * 
+ * Specifies the style rules for the website
+ * Author: Abner Castro
+ * Date: April 07th, 2017
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+body {    
+    padding: 20px 30px 0 30px;
+}
+
+.title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 100;    
+}
