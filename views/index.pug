@@ -10,4 +10,9 @@ extends layout
 
 block content
     .title Hello World!
-    .content Welcome to this application on Heroku.
+    .content Welcome to this application on Heroku. Check out some quotes.
+    //- Quotes
+    div(class="quote-container")
+        div(ng-repeat="quote in vm.quotes")
+            ul(class="list-unstyled")
+                li(class="quote") {{quote.content}} - {{quote.author}}

@@ -2,7 +2,7 @@
   "name": "mean-app-xperience",
   "version": "1.0.0",
   "description": "Simple MEAN Stack app to learn the basic concepts",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
